@@ -1,0 +1,3 @@
+class sub extends Component {
+  
+}
